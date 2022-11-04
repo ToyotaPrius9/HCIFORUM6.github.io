@@ -16,12 +16,17 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-/* ///////////..utility classes../////////// */
+
 
 .container {
   max-width: 1200px;
   width: 90%;
   margin: auto;
+}
+
+audio.musik{
+  display: flex
+  
 }
 
 .btn {
